@@ -1,0 +1,8 @@
+C:\Users\Dell\Documents\SharpDevelop Projects\NguyenTranNhatMinh-1706020050\NguyenTranNhatMinh-1706020050\bin\Debug\NguyenTranNhatMinh-1706020050.exe.config
+C:\Users\Dell\Documents\SharpDevelop Projects\NguyenTranNhatMinh-1706020050\NguyenTranNhatMinh-1706020050\bin\Debug\NguyenTranNhatMinh-1706020050.exe
+C:\Users\Dell\Documents\SharpDevelop Projects\NguyenTranNhatMinh-1706020050\NguyenTranNhatMinh-1706020050\bin\Debug\NguyenTranNhatMinh-1706020050.pdb
+C:\Users\Dell\Documents\SharpDevelop Projects\NguyenTranNhatMinh-1706020050\NguyenTranNhatMinh-1706020050\obj\Debug\NguyenTranNhatMinh-1706020050.csprojResolveAssemblyReference.cache
+C:\Users\Dell\Documents\SharpDevelop Projects\NguyenTranNhatMinh-1706020050\NguyenTranNhatMinh-1706020050\obj\Debug\NguyenTranNhatMinh_1706020050.MainForm.resources
+C:\Users\Dell\Documents\SharpDevelop Projects\NguyenTranNhatMinh-1706020050\NguyenTranNhatMinh-1706020050\obj\Debug\NguyenTranNhatMinh-1706020050.csproj.GenerateResource.Cache
+C:\Users\Dell\Documents\SharpDevelop Projects\NguyenTranNhatMinh-1706020050\NguyenTranNhatMinh-1706020050\obj\Debug\NguyenTranNhatMinh-1706020050.exe
+C:\Users\Dell\Documents\SharpDevelop Projects\NguyenTranNhatMinh-1706020050\NguyenTranNhatMinh-1706020050\obj\Debug\NguyenTranNhatMinh-1706020050.pdb
